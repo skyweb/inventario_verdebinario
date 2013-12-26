@@ -41,3 +41,7 @@ Django based web system used to register Verde Binario's items.
     * initial commit
     * qr-code is disabled, we are looking for a lib well manteined 
     * fixed git author name...    
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/skyweb/inventario_verdebinario/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
